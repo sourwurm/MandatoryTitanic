@@ -1,1 +1,3 @@
 # MandatoryTitanic
+
+I've spent this Summer of 2020 primarily focused with my work at the UCSD Department of Cognitive Science and participating in the Facebook Data Challenge. On top of that, I've been able to do lots of self-studying in the realm of statistics and business to improve my testing and product-sense. I wanted to put out a quick project for fun meanwhile I continue my work, so I thought I'd check out the Titanic dataset. The Titanic dataset is often toughted as a very begginer-friendly data science project. While this obviously lacks impact, I thought it'd be a fun way to spend a Sunday while I finish up my projects in my professional work!
